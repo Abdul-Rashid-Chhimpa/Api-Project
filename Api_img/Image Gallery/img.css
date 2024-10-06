@@ -1,0 +1,14 @@
+.containor {
+    border: 0.1px solid black;
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.containor img {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+}
